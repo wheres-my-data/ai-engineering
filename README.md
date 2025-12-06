@@ -1,2 +1,2 @@
-# ai-engineering
-A structured AI Engineering journey - Theory to understand concepts, Practice to run real demos, and Implementation to build components from scratch.
+This repository is a structured, beginner-friendly AI Engineering curriculum I designed.  
+It covers Transformers, RAG, and Agents through three layers — Theory, Practice, and Implementation — to help anyone build from fundamentals to hands-on capability
