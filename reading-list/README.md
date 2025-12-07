@@ -7,13 +7,8 @@ This list includes **papers, videos, courses, blogs, and books** — only the hi
 
 ## 📘 Papers (Core to Transformers & LLMs)
 - **Attention is All You Need (2017)** — the transformer paper  
-- **GPT-1 (2018)** — generative pretraining  
-- **GPT-2 (2019)** — emergent few-shot abilities  
-- **GPT-3 (2020)** — scaling laws in action  
-- **RLHF: Learning to Summarize with Human Feedback (2020)**  
-- **InstructGPT (2022)** — instruction tuning  
-- **Scaling Laws for Neural Language Models (Kaplan et al., 2020)**  
-- **FlashAttention (2022)** — memory-efficient attention  
+- **COMPUTING MACHINERY AND INTELLIGENCE** https://courses.cs.umbc.edu/471/papers/turing.pdf
+ 
 
 ---
 
