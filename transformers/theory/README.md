@@ -2,6 +2,9 @@
 
 This section is for **core concepts and mental models** behind transformer architectures.  
 These notes aim for clarity, intuition, and structural understanding — before touching code.
+图灵说：一个想法注入后，可能像琴弦一样衰减，也可能像接近临界的核堆一样自激增长。
+Transformer 的残差流（residual stream）+ 多层非线性：输入 token 的信息会在层与层之间被反复变换、组合、放大，形成“级联”的内部表征。
+自回归生成：模型自己生成的 token 又回到输入里（context），会形成外部可见的“思路延展”。
 
 ## 📘 Planned Topics
 
